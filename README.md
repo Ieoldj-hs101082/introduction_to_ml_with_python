@@ -79,5 +79,3 @@ For the text processing chapter, you need to download the English language model
 If you have errata for the (e-)book, please submit them via the [O'Reilly Website](http://www.oreilly.com/catalog/errata.csp?isbn=0636920030515).
 You can submit fixes to the code as pull-requests here, but I'd appreciate it if you would also submit them there, as this repository doesn't hold the
 "master notebooks".
-
-![cover](cover.jpg)
